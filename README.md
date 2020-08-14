@@ -2,15 +2,15 @@
 
 This MATLAB code was used as part of the work presented in
 
-Navchetan Awasthi*, Gaurav Jain*,Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, “Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography,” in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Special issue on Deep Learning in Medical Ultrasound) 2020 ([DOI: 10.1109/TUFFC.2020.2977210](https://ieeexplore.ieee.org/document/9018129)).
+**Navchetan Awasthi*, Gaurav Jain*,Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, “Deep Neural-Network Based Sinogram Super-resolution and Bandwidth Enhancement for Limited Data Photoacoustic Tomography,” in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control (Special issue on Deep Learning in Medical Ultrasound) 2020 ([DOI: 10.1109/TUFFC.2020.2977210](https://ieeexplore.ieee.org/document/9018129)).**
 
-* Co-first authors with equal contribution
+***Co-first authors with equal contribution**
 
-**The raw measurement data for the experimental experiments is not provided and can be requested.
+**The raw measurement data for the experimental experiments is not provided and can be requested.**
 
-***Please contact if you find any mistakes or if you need any help regarding the codes.
+***Please contact if you find any mistakes or if you need any help regarding the codes.**
 
-The data for the above work can be obtained by using the google drive link and requesting for access:
+**The data for the above work can be obtained by using the google drive link and requesting for access:**
 
 [https://drive.google.com/drive/u/3/folders/12egdPGu3muwBCyhYapntNpbAUTFDEJm_](https://drive.google.com/drive/u/0/folders/12egdPGu3muwBCyhYapntNpbAUTFDEJm_)
 
